@@ -1,1 +1,1 @@
-# Este proyecto es una aplicación sobre cosas que la gente usa en su día, hecho con en el leguaje orientado a objetos C#
+# Este proyecto es una pequeña aplicación donde un objeto interactua con otros objetos y viceversa, Fue realizado con el lenguaje de Programación Orientado a Objetos C# 
